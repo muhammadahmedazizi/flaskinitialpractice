@@ -1,4 +1,4 @@
-###Follow this path to run the project. 
+###Follow this path to run the project.
 
 set FLASK_APP=app.py
 
